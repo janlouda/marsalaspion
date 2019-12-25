@@ -23,7 +23,7 @@ Jednotlivé figurky jsem překreslil v Adobe Illustratoru do křivek a jsou při
 
 
 
-Na rozdíl od původní verze, kde se figurky skládaly z papíru do klasických trojúhelníkových hracích kamenů jsem vytvořil 3D model držáku, do kterého vystřižené kartonové figurky zasunete. Pokud si chcete model upravit nebo překreslit, tak zdroják je k dispozici tady. [TinkerCAD model držáku](https://www.tinkercad.com/things/fhxQ1hPLyRa-public-marsal-a-spion-holder). 
+Na rozdíl od původní verze, kde se figurky skládaly z papíru do klasických trojúhelníkových hracích kamenů jsem vytvořil 3D model držáku, do kterého vystřižené kartonové figurky zasunete. Pokud si chcete model upravit nebo překreslit, tak zdroják je k dispozici tady: [TinkerCAD model držáku](https://www.tinkercad.com/things/fhxQ1hPLyRa-public-marsal-a-spion-holder). V složce [soubory-3Dtisk](https://github.com/janlouda/marsalaspion/tree/master/soubory-3Dtisk) je k dispozici .stl soubor pro 3D tisk a pokud tisknete na PRŮŠOVI z PLA, tak je tam připraven i .gcode pro tisk 4ks držáků naráz. 
 
 
 ![Figurka - detail](https://github.com/janlouda/marsalaspion/raw/master/img/figurka_detail.JPG)
