@@ -35,7 +35,6 @@ Na rozdíl od původní verze, kde se figurky skládaly z papíru do klasických
 ## Krabice a návod
 Protože plán je přeložená A3, tak ideální je najít si nějakou krabici na A4, která bude alespoň 3 cm vysoká. Já takovou koupil v [Pack Shopu](https://www.packshop.cz/z/papirova-krabice-na-format-a4-331x234x30-mm-17.html). Na krabici jsem dal obrázek původní hry, kterou jsem přilepil ozdobnou washi páskou. Na okraje krabice jsem herkulesem přilepil vytištěný název hry (nejbližší font, který jsem našel byl American Typewriter, který najdete také ve složce ke stažení).
 
-![Krabice](https://github.com/janlouda/marsalaspion/raw/master/img/krabice.JPG)
 
 Protože jde krabice špatně otevírat, dotiskl jsem si ještě malé očko, které je nakrabici nalepeno oboustrankou. Za očko jde pak krabice krásně otevřít.
 
