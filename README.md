@@ -39,7 +39,7 @@ Protože jde krabice špatně otevírat, dotiskl jsem si ještě malé očko, kt
 
 Nakonec jsem si ještě vytiskl na A4 pravidla a zalaminoval je v domácí laminovačce, aby se netrhala. Vzhledem k jejich jednoduchosti ale nepočítám, že bych je musel často konzultovat.
 
-![Pravidla](https://github.com/janlouda/marsalaspion/raw/master/img/krabice_detail.JPG)
+![Pravidla](https://github.com/janlouda/marsalaspion/raw/master/img/pravidla.JPG)
 
 ## PŘEJI KRÁSNÉ HODINY STRÁVENÉ U TÉTO VÝBORNÉ HRY
 
