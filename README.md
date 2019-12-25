@@ -19,7 +19,7 @@ Jednotlivé figurky jsem překreslil v Adobe Illustratoru do křivek a jsou při
 
 (Pozn.: Modrá linka označuje finální velikost pro vystřihnutí.)
 
-![Figurky](https://github.com/janlouda/marsalaspion/raw/master/img/figurky_karton.PNG)
+![Figurky](https://github.com/janlouda/marsalaspion/raw/master/img/figurky-karton.png)
 
 Na rozdíl od původní verze, kde se figurky skládaly z papíru do klasických trojúhelníkových hracích kamenů jsem vytvořil 3D model držáku, do kterého vystřižené kartonové figurky zasunete. Pokud si chcete model upravit nebo překreslit, tak zdroják je k dispozici tady. [TinkerCAD model držáku](https://www.tinkercad.com/things/fhxQ1hPLyRa-public-marsal-a-spion-holder). 
 
@@ -43,7 +43,7 @@ Nakonec jsem si ještě vytiskl na A4 pravidla a zalaminoval je v domácí lamin
 
 ## PŘEJI KRÁSNÉ HODINY STRÁVENÉ U TÉTO VÝBORNÉ HRY
 
-![Pravidla](https://github.com/janlouda/marsalaspion/raw/master/img/hotova_hra.JPG)
+![Hotová hra](https://github.com/janlouda/marsalaspion/raw/master/img/hotova_hra.JPG)
 
 
 
