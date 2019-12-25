@@ -28,7 +28,7 @@ Na rozdíl od původní verze, kde se figurky skládaly z papíru do klasických
 
 ![Figurky](https://github.com/janlouda/marsalaspion/raw/master/img/figurky.JPG)
 
-## Krabice
+## Krabice a návod
 Protože plán je přeložená A3, tak ideální je najít si nějakou krabici na A4, která bude alespoň 3 cm vysoká. Já takovou koupil v [Pack Shopu](https://www.packshop.cz/z/papirova-krabice-na-format-a4-331x234x30-mm-17.html). Na krabici jsem dal obrázek původní hry, kterou jsem přilepil ozdobnou washi páskou. Na okraje krabice jsem herkulesem přilepil vytištěný název hry (nejbližší font, který jsem našel byl American Typewriter, který najdete také ve složce ke stažení).
 
 ![Krabice](https://github.com/janlouda/marsalaspion/raw/master/img/krabice.JPG)
@@ -37,7 +37,13 @@ Protože jde krabice špatně otevírat, dotiskl jsem si ještě malé očko, kt
 
 ![Krabice detail](https://github.com/janlouda/marsalaspion/raw/master/img/krabice_detail.JPG)
 
+Nakonec jsem si ještě vytiskl na A4 pravidla a zalaminoval je v domácí laminovačce, aby se netrhala. Vzhledem k jejich jednoduchosti ale nepočítám, že bych je musel často konzultovat.
 
+![Pravidla](https://github.com/janlouda/marsalaspion/raw/master/img/krabice_detail.JPG)
+
+## PŘEJI KRÁSNÉ HODINY STRÁVENÉ U TÉTO VÝBORNÉ HRY
+
+![Pravidla](https://github.com/janlouda/marsalaspion/raw/master/img/hotova_hra.JPG)
 
 
 
