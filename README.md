@@ -21,12 +21,16 @@ Jednotlivé figurky jsem překreslil v Adobe Illustratoru do křivek a jsou při
 
 ![Figurky](https://github.com/janlouda/marsalaspion/raw/master/img/figurky-karton.png)
 
+
+
 Na rozdíl od původní verze, kde se figurky skládaly z papíru do klasických trojúhelníkových hracích kamenů jsem vytvořil 3D model držáku, do kterého vystřižené kartonové figurky zasunete. Pokud si chcete model upravit nebo překreslit, tak zdroják je k dispozici tady. [TinkerCAD model držáku](https://www.tinkercad.com/things/fhxQ1hPLyRa-public-marsal-a-spion-holder). 
+
 
 ![Figurka - detail](https://github.com/janlouda/marsalaspion/raw/master/img/figurka_detail.JPG)
 
 
 ![Figurky](https://github.com/janlouda/marsalaspion/raw/master/img/figurky.JPG)
+
 
 ## Krabice a návod
 Protože plán je přeložená A3, tak ideální je najít si nějakou krabici na A4, která bude alespoň 3 cm vysoká. Já takovou koupil v [Pack Shopu](https://www.packshop.cz/z/papirova-krabice-na-format-a4-331x234x30-mm-17.html). Na krabici jsem dal obrázek původní hry, kterou jsem přilepil ozdobnou washi páskou. Na okraje krabice jsem herkulesem přilepil vytištěný název hry (nejbližší font, který jsem našel byl American Typewriter, který najdete také ve složce ke stažení).
