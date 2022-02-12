@@ -10,6 +10,7 @@ Ti co si hru vyrobí, ji pak o to radši budou hrát :)
   
 ## Herní plán
 Herní plán jsem překreslil do Adobe InDesignu a zároveň je k dispozici i ke stažení již hotová PDF verze s ořezovými značkami. nejde o úplně původní plán, ale o remix, který jsem objevil na serveru "Zatrolené hry" a který se mi líbil. Plán má velikost A3 a doporučuji vytisknout na karton (tloušťka 0.7 mm) a nechat polaminovat (aby déle vydržel). Názvy figurek jsou fontem *menuetto*, který je k dispozici ve složce ke stažení.
+V souborech pro tisk je i verze v PDF pro tisk A4 (plán rozdělený na dvě části).
 
 
 ![Herní plán](https://github.com/janlouda/marsalaspion/raw/master/img/herni_plan.JPG)
